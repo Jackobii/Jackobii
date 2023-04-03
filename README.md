@@ -4,7 +4,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </a>
 <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-fjellstr%C3%B6m/)
+![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-fjellstr%C3%B6m/)
 
 - 🌱 Currently studying to become a .NET-developer at <a href="https://www.iths.se" target="blank">IT Högskolan</a>.
 
