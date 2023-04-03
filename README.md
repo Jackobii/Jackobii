@@ -1,8 +1,10 @@
 # Welcome to my Github page! I'm Jacob! 👋
 
-<a target="_blank" align="center">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</a>
+<dl>
+  <dd><a target="_blank" align="center">
+      <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" margin-left='10px' /></a>
+  </dd>
+</dl>
 
 ## .NET-Student at IT-Högskolan in Gothenburg
 
