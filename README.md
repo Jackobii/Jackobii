@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact: I restore/repair old, crusty gameboys for fun 🔧 🎮
 
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' href='https://www.linkedin.com/in/jacob-fjellstr%C3%B6m/'> Follow me on LinkedIn! 🤝
+
 <br>
 
 ---
@@ -52,9 +54,6 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackobii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align='right'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' href='https://www.linkedin.com/in/jacob-fjellstr%C3%B6m/'>
-</div>
 
 
 <!--
