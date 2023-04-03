@@ -1,16 +1,17 @@
-## Welcome to my Github page! I'm Jacob! 👋
+# Welcome to my Github page! I'm Jacob! 👋
 
 <a target="_blank" align="center">
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </a>
 <br>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' href='https://www.linkedin.com/in/jacob-fjellstr%C3%B6m/'>
 
-- 🌱 Currently studying to become a .NET-developer at <a href="https://www.iths.se" target="blank">IT Högskolan</a>.
+## .NET-Student at IT-Högskolan in Gothenburg
 
-- 📫 How to reach me: **jackofjellstrom@gmail.com**
+- 🌱 Currently studying to become a .NET-developer at <a href="https://www.iths.se" target="blank">IT Högskolan</a>. 🗒️
 
-- ⚡ Fun fact:
+- 📫 How to reach me: **jackofjellstrom@gmail.com** 📫
+
+- ⚡ Fun fact: I restore/repair old, crusty gameboys for fun 🔧 🎮
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -44,10 +45,16 @@
 </p>
 
 ### Stats:
-
+<div align='left'>
 ![Jackobii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackobii&show_icons=true&theme=transparent)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackobii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<div align='right'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' href='https://www.linkedin.com/in/jacob-fjellstr%C3%B6m/'>
+</div>
+
 
 <!--
 **Jackobii/Jackobii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
