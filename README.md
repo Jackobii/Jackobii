@@ -12,7 +12,8 @@
 
 - ⚡ Fun fact: I restore/repair old, crusty gameboys for fun 🔧 🎮
 
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' href='https://www.linkedin.com/in/jacob-fjellstr%C3%B6m/'>   Follow me on LinkedIn! 🤝
+- <a href='https://www.linkedin.com/in/jacob-fjellstr%C3%B6m/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>  Follow me on LinkedIn! 🤝
+</a>
 
 <br>
 
