@@ -45,12 +45,10 @@
 </p>
 
 ### Stats:
-<div align='left'>
 ![Jackobii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackobii&show_icons=true&theme=transparent)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackobii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 <div align='right'>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' href='https://www.linkedin.com/in/jacob-fjellstr%C3%B6m/'>
 </div>
