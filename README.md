@@ -3,7 +3,6 @@
 <a target="_blank" align="center">
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </a>
-<br>
 
 ## .NET-Student at IT-Högskolan in Gothenburg
 
@@ -12,6 +11,10 @@
 - 📫 How to reach me: **jackofjellstrom@gmail.com** 📫
 
 - ⚡ Fun fact: I restore/repair old, crusty gameboys for fun 🔧 🎮
+
+<br>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
