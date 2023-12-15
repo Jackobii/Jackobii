@@ -18,6 +18,25 @@
 
 <br>
 
+### My GitHub Portfolio :briefcase:
+<div align="center">
+<br>
+
+| Repo                           | Description                                                   | Tech stack                     |
+| ------------------------------ | ------------------------------------------------------------- | ------------------------------ |
+  | [Frölunda Arcade (Group project)][fa] |   A complete eCommerce webpage for the fictional company Frölunda Arcade. The webpage also includes an Arcade page and a forum <br> A live version can be found <a href="https://frolundaarcade.azurewebsites.net/">here.</a>| HTML, CSS, Bootstrap, Javascript, JSON, C#, ASP.NET, Blazor, SQL Server, Azure |
+|[ECommerce Frontend][bb1]               | A frontend webpage for a fictional chocolate shop <br> View on <a href="https://jackobii.github.io/Webbutveckling-labb-1/">GitHub Pages</a> | HTML, CSS, Bootstrap, Javascript, JSON|
+|[Quiz Game V2 (MongoDB)][qg2]               | A GUI Quiz application using MongoDB | C#, WPF, MVVM, JSON & MongoDB|
+| [Quiz Game V1 (JSON)][qg1]              | A GUI Quiz application using JSON | C#, WPF, MVVM, JSON|
+
+[bb1]: https://github.com/Jackobii/Webbutveckling-labb-1
+[qg1]: https://github.com/ITHS-gbg/labb-3-Jackobii
+[qg2]: https://github.com/ITHS-gbg/labb-3-databaser-Jackobii
+ [fa]: https://frolundaarcade.azurewebsites.net/
+
+<br>
+</div>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
